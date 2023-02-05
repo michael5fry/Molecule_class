@@ -1,4 +1,4 @@
-# Molecule_class
+# Molecule_class for Gaussian Computation specifically.
 
 # For the CLASS to Properly Function:
 

@@ -10,6 +10,8 @@ The files it requires to properly work are:
 
 Furthermore this molecule class requires that the File_Name is the same for each type of file e.g (h2o.out, h2o.xyz, h2o.fchk) 
 
+### In this case the Molecule is called SIG779_close, to check its shape use Avogradro or Vesta
+
 
 ## CLASS METHODS
 
